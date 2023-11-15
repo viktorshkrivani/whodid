@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane disable="true" prefHeight="580.0" prefWidth="767.0" style="-fx-background-color: white;" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.whodid.HelloController">
+   <children>
+      <ImageView fitHeight="41.0" fitWidth="39.0" layoutX="418.0" layoutY="463.0">
+         <image>
+            <Image url="@../../../../../images/coin%20136.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="39.0" layoutX="421.0" layoutY="405.0">
+         <image>
+            <Image url="@../../../../../images/energy-drink%2010.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="110.0" layoutX="103.0" layoutY="163.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20133.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="110.0" layoutX="223.0" layoutY="163.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20137.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="51.0" fitWidth="110.0" layoutX="341.0" layoutY="217.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20138.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="110.0" layoutX="340.0" layoutY="163.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20141.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="110.0" layoutX="222.0" layoutY="107.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20142.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="110.0" layoutX="102.0" layoutY="107.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20143.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="51.0" fitWidth="110.0" layoutX="104.0" layoutY="217.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20144.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="110.0" layoutX="339.0" layoutY="107.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20145.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="51.0" fitWidth="110.0" layoutX="223.0" layoutY="217.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20146.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="103.0" fitWidth="110.0" layoutX="105.0" layoutY="283.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20150.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="103.0" fitWidth="110.0" layoutX="225.0" layoutY="283.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20151.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="103.0" fitWidth="110.0" layoutX="342.0" layoutY="283.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20152.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="41.0" fitWidth="65.0" layoutX="109.0" layoutY="510.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20154.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="62.0" fitWidth="57.0" layoutX="700.0" layoutY="500.0">
+         <image>
+            <Image url="@../../../../../images/Untitled-1%204.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="580.0" fitWidth="76.0" layoutX="-11.0">
+         <image>
+            <Image url="@../../../../../images/Rectangle%20153.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="32.0" fitWidth="200.0" layoutX="310.0" layoutY="33.0">
+         <image>
+            <Image url="@../../../../../images/instructions.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="33.0" fitWidth="200.0" layoutX="481.0" layoutY="167.0">
+         <image>
+            <Image url="@../../../../../images/log%20in%20steps.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="25.0" fitWidth="200.0" layoutX="481.0" layoutY="115.0">
+         <image>
+            <Image url="@../../../../../images/LEVEL%20DIFFICULTY.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="25.0" fitWidth="200.0" layoutX="481.0" layoutY="288.0">
+         <image>
+            <Image url="@../../../../../images/drink%20=%20collect.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="39.0" fitWidth="200.0" layoutX="481.0" layoutY="223.0">
+         <image>
+            <Image url="@../../../../../images/directionS.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="22.0" fitWidth="200.0" layoutX="481.0" layoutY="322.0">
+         <image>
+            <Image url="@../../../../../images/fight%20the%20monster.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="31.0" fitWidth="200.0" layoutX="480.0" layoutY="351.0">
+         <image>
+            <Image url="@../../../../../images/run%20=%20cHANGE.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="25.0" fitWidth="92.0" layoutX="480.0" layoutY="413.0">
+         <image>
+            <Image url="@../../../../../images/energy.png" />
+         </image>
+      </ImageView>
+      <ImageView fitHeight="39.0" fitWidth="92.0" layoutX="478.0" layoutY="461.0">
+         <image>
+            <Image url="@../../../../../images/GOLD.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>

@@ -1,16 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?import javafx.geometry.Insets?>
-<?import javafx.scene.control.Label?>
-<?import javafx.scene.layout.VBox?>
-
 <?import javafx.scene.control.Button?>
-<VBox alignment="CENTER" spacing="20.0" xmlns:fx="http://javafx.com/fxml"
-      fx:controller="com.example.whodid.HelloController">
-    <padding>
-        <Insets bottom="20.0" left="20.0" right="20.0" top="20.0"/>
-    </padding>
+<?import javafx.scene.effect.Reflection?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
 
-    <Label fx:id="welcomeText"/>
-    <Button text="Hello!" onAction="#onHelloButtonClick"/>
-</VBox>
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="523.0" prefWidth="768.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="549.0" fitWidth="768.0" layoutY="-13.0">
+         <image>
+            <Image url="@../../../../../images/tumblr_9cf4e98cb7698c1433270b8c46225197_de966695_640.gif" />
+         </image>
+      </ImageView>
+      <Button layoutX="276.0" layoutY="340.0" mnemonicParsing="false" style="-fx-background-color: transparetn; -fx-background-insets: transparent; -fx-alignment: transparent; -fx-text-alignment: transparent;">
+         <graphic>
+            <ImageView fitHeight="50.0" fitWidth="200.0" layoutX="320.0" layoutY="354.0">
+               <image>
+                  <Image url="@../../../../../images/Rectangle%203.png" />
+               </image>
+            </ImageView>
+         </graphic>
+         <effect>
+            <Reflection topOpacity="0.16" />
+         </effect>
+      </Button>
+   </children>
+</AnchorPane>
